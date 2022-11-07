@@ -1,0 +1,3 @@
+> % of failed HTLCS vs successful routes over time
+> value routed versus fees gained over time
+> some type of sparse matrix for input channels/output channels for both successful routes and failed htlcs
